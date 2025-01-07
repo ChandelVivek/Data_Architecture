@@ -1,7 +1,8 @@
 # Data_Architecture
-This project has stages of data architecture
+**This project has stages of data architecture**
 Example : Azure cloud data architecture
           AWS cloud data architecture
+          Google Cloud architecture
 
 <img width="884" alt="AWS" src="https://github.com/user-attachments/assets/87ead375-3c85-443e-a408-1dfc8af1e1ae" />
 
@@ -11,8 +12,10 @@ Example : Azure cloud data architecture
 
 <img width="880" alt="GCP" src="https://github.com/user-attachments/assets/4a29b6e4-4a92-4951-b5e7-8393be29214a" />
 
-
+**Another example of Azure Model**
 
 <img width="857" alt="Azure Data Architecture" src="https://github.com/user-attachments/assets/6f266fdd-9168-4780-a8f5-17aa54fca857" />
+
+**Another example of Azure Model**
 
 <img width="743" alt="Google Data Architecture" src="https://github.com/user-attachments/assets/9580aa49-fa4d-4b0d-a776-c526663f41da" />
